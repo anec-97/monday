@@ -1,3 +1,5 @@
 print "que onda"
 bonjour
 hello
+konishiwa
+japanese
